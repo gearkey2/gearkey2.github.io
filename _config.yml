@@ -3,6 +3,7 @@ description: balabala
 github_username: jekyll
 permalink: /:title.html
 timezone: Asia/Shanghai
+theme: architect
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
